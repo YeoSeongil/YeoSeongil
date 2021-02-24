@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YeoSeongil&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yeo Seongil&fontSize=90)
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
 I'm Seongil Yeo, a junior Frontend developer.<br>
