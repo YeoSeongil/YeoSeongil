@@ -12,7 +12,7 @@
  ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
  ![Next Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
  ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
- ![Apollo Badge](https://img.shields.io/badge/Apollo.GraphQL?-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white)       
+ ![Apollo Badge](https://img.shields.io/badge/Apollo.GraphQL?-311C87?style=flat-square&logo=ApolloGraphQL&logoColor=white)       
 # Social
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006827970975)](https://www.facebook.com/profile.php?id=100006827970975)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram%20-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zlo.orv.ko/)](https://www.instagram.com/zlo.orv.ko/)
