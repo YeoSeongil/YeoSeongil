@@ -3,10 +3,8 @@
 <h1 align="center">Yeo Seongil : Frontend Developer</h1>     
 <p align="center">
    <img src="https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/1-repos-per-language.svg"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-
-![](https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/2-most-commit-language.svg)       
+   <img src="https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/2-most-commit-language.svg"/></a>&nbsp 
+</p>   
 
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006827970975)](https://www.facebook.com/profile.php?id=100006827970975)
