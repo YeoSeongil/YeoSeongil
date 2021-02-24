@@ -22,6 +22,13 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
 </p>
        
+<h3 align="center">Social</h3>
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100006827970975"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006827970975"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-243b5b?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
+</p>
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006827970975)](https://www.facebook.com/profile.php?id=100006827970975)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram%20-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zlo.orv.ko/)](https://www.instagram.com/zlo.orv.ko/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@seongil_yeo)](https://velog.io/@seongil_yeo)
