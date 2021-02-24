@@ -24,7 +24,7 @@ I'm Seongil Yeo, a junior Frontend developer.<br>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JSON-#000111?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JSON-004027?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp
 </p>
 <h3 align="center">Social</h3>
 <p align="center">
