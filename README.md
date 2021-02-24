@@ -5,4 +5,8 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006827970975)](https://www.facebook.com/profile.php?id=100006827970975)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram%20-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zlo.orv.ko/)](https://www.instagram.com/zlo.orv.ko/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@seongil_yeo)](https://velog.io/@seongil_yeo)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongil5803@gmail.com)](mailto:seongil5803@gmail.com)
+[![Kakao Badge](https://img.shields.io/badge/Kakao-yellow?style=flat-square&logo=Kakao&logoColor=white&link=mailto:seongil5803@naver.com)](mailto:seongil5803@naver.com)
+
+ 
 
