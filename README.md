@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeoSeongil&fontSize=70&animation=twinkling)     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoSeongil%2Fhit-counter&count_bg=%2393E1DC&title_bg=%23929292&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)        
+    
 <h1 align="center">Yeo Seongil : Frontend Developer</h1>     
 <p align="center">
    <img src="https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/1-repos-per-language.svg"/></a>&nbsp 
