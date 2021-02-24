@@ -1,6 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YeoSeongil%20Lee&fontSize=90)
-<h1 align="center">Yeo Seongil : Frontend Developer</h1>     
+<h3 align="center"> 👋 Hi there,</h3>
+<p align="center">
+I'm Seongil Yeo, a junior Frontend developer.<br>
+</p>
 <p align="center">
    <img src="https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/1-repos-per-language.svg"/></a>&nbsp 
    <img src="https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/2-most-commit-language.svg"/></a>&nbsp 
