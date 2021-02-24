@@ -4,8 +4,7 @@
 <p align="center">
    <img src="https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/1-repos-per-language.svg"/></a>&nbsp 
    <img src="https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/2-most-commit-language.svg"/></a>&nbsp 
-</p>   
-</br>
+</p>
 </br>
 <h3 align="center">Stack</h3>
 <p align="center">
