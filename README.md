@@ -25,14 +25,10 @@
 <h3 align="center">Social</h3>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100006827970975"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006827970975"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-243b5b?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
+  <a href="https://www.instagram.com/zlo.orv.ko/"><img src="http://img.shields.io/badge/-Instagram%20-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zlo.orv.ko/"/></a>&nbsp
+  <a href="https://velog.io/@seongil_yeo"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@seongil_yeo"/></a>&nbsp
+  <a href="mailto:seongil5803@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongil5803@gmail.com"/></a>&nbsp
+  <a href="mailto:seongil5803@naver.com"><img src="https://img.shields.io/badge/Kakao-yellow?style=flat-square&logo=Kakao&logoColor=white&link=mailto:seongil5803@naver.com"/></a>&nbsp
 </p>
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006827970975)](https://www.facebook.com/profile.php?id=100006827970975)
-[![Instagram Badge](http://img.shields.io/badge/-Instagram%20-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zlo.orv.ko/)](https://www.instagram.com/zlo.orv.ko/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@seongil_yeo)](https://velog.io/@seongil_yeo)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongil5803@gmail.com)](mailto:seongil5803@gmail.com)
-[![Kakao Badge](https://img.shields.io/badge/Kakao-yellow?style=flat-square&logo=Kakao&logoColor=white&link=mailto:seongil5803@naver.com)](mailto:seongil5803@naver.com)
 
  
