@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/2-most-commit-language.svg)       
 # Stack     
-1. JavaScript
+1. JavaScript         
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006827970975)](https://www.facebook.com/profile.php?id=100006827970975)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram%20-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zlo.orv.ko/)](https://www.instagram.com/zlo.orv.ko/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@seongil_yeo)](https://velog.io/@seongil_yeo)
