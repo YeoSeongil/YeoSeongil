@@ -32,9 +32,6 @@
   <a href="mailto:seongil5803@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seongil5803@gmail.com"/></a>&nbsp
   <a href="mailto:seongil5803@naver.com"><img src="https://img.shields.io/badge/Kakao-yellow?style=flat-square&logo=Kakao&logoColor=white&link=mailto:seongil5803@naver.com"/></a>&nbsp
 </p>
-
-</br>
-</br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoSeongil%2Fhit-counter&count_bg=%2393E1DC&title_bg=%23929292&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
