@@ -21,9 +21,6 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
 </p>
-</br>
-</br>
-
 <h3 align="center">Social</h3>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100006827970975"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006827970975"/></a>&nbsp
