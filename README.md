@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeoSeongil&fontSize=70&animation=twinkling)     
-    
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YeoSeongil%20Lee&fontSize=90)
 <h1 align="center">Yeo Seongil : Frontend Developer</h1>     
 <p align="center">
    <img src="https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/1-repos-per-language.svg"/></a>&nbsp 
