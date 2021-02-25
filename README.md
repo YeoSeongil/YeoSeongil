@@ -20,7 +20,7 @@ I'm Seongil Yeo, a junior Frontend developer.<br>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=NPM&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp 
