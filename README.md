@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeongIl%20Yeo&fontSize=90)
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm Seongil Yeo, a junior Frontend developer.<br>
+I'm Seongil Yeo, a junior Frontend developer Stu.<br>
 </p>
 <p align="center">
    <img src="https://raw.githubusercontent.com/YeoSeongil/YeoSeongil/main/profile-summary-card-output/default/1-repos-per-language.svg"/></a>&nbsp 
