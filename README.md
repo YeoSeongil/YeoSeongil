@@ -9,7 +9,7 @@ I'm Seongil Yeo, a iOS developer Stu.<br>
 </p>
 <h3 align="center">Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/ios developer?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-243b5b?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
