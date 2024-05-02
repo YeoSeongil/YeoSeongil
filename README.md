@@ -9,7 +9,8 @@ I'm Seongil Yeo, a iOS developer Stu.<br>
 </p>
 <h3 align="center">Stack</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white">
 </p>
 <!-- <h3 align="center">Social</h3>
 <p align="center">
