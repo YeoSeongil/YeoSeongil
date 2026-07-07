@@ -10,18 +10,22 @@
 
 <br>
 
-## 🏆 Awards
+## Awards
 - **2025 Swift Student Challenge — Distinguished Winner** (Apple)
   [App Store](https://apps.apple.com/us/app/lost-in-letters-dyslexia/id6756565720) · [Repo](https://github.com/YeoSeongil/Lost-in-Letters)
 
-## 🚀 Projects
+## Projects
 - **Flyleaf** — Feb 2026 ~ Present
   [App Store](https://apps.apple.com/kr/app/flyleaf/id6759834893) · [Repo](https://github.com/teamflyleaf/ios-Flyleaf)
 - **TapTap** — Sep 2025 ~ Present
   [App Store](https://apps.apple.com/kr/app/%ED%83%AD%ED%83%AD/id6754357960) · [Repo](https://github.com/TapTapTeam)
 
-## 🎤 Talks & Seminars
+## Contributions
+- **swiftlang/swift-package-manager** — Fix verbose build log lines being concatenated without newlines [PR #10247](https://github.com/swiftlang/swift-package-manager/pull/10247)
+- **swiftlang/swift-foundation** — Support var default values as replacement for @CodableDefault [PR #2072](https://github.com/swiftlang/swift-foundation/pull/2072)
+
+## Talks & Seminars
 - **2026** — *Started with Swift Student Challenge*, Seoul
 
-## 💼 Experience
+## Experience
 - **2025.03 ~ 2025.12** — Apple Developer Academy @ POSTECH
