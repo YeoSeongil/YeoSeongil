@@ -22,6 +22,7 @@
 
 ## Contributions
 - **swiftlang/swift-package-manager** — Fix verbose build log lines being concatenated without newlines [PR #10247](https://github.com/swiftlang/swift-package-manager/pull/10247)
+- **swiftlang/swift-package-manager** — Fix verbose build log output being emitted twice [PR #10282](https://github.com/swiftlang/swift-package-manager/pull/10282)
 - **swiftlang/swift-foundation** — Support var default values as replacement for @CodableDefault [PR #2072](https://github.com/swiftlang/swift-foundation/pull/2072)
 
 ## Talks & Seminars
